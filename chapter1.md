@@ -1,3 +1,7 @@
-# First Chapter
+# 创建自定义View
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+为什么要创建自定义View
+
+* 简单view无法满足我们的需求
+* 已有view布局无法满足我们要求
+* 我需要自己绘制view
