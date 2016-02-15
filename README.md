@@ -1,4 +1,4 @@
-My Awesome Book
+如何创建自定义View和动画
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本文讲解如何在android中创建自定义View和动画。
